@@ -2,7 +2,7 @@
 
 The Shire is a region of J. R. R. Tolkien's fictional Middle-earth, described in The Lord of the Rings and other works. The Shire refers to an area settled exclusively by Hobbits and largely removed from the goings-on in the rest of Middle-earth. It is located in the northwest of the continent, in the large region of Eriador and the Kingdom of Arnor.
 
-And it's Redu's private gem [server](http://the-shire.herokuapp.com/)!
+In this region there is a [server](http://the-shire.herokuapp.com/) with all Redu's private gems that's made with [GemInABox](https://github.com/cwninja/geminabox).
 
 ## Configuration
 You need to set the username and password for the basic auth as environment variables.
