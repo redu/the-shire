@@ -1,5 +1,5 @@
 require 'rubygems'
 require 'geminabox'
 
-Geminabox.data = "/var/geminabox-data"
+Geminabox.data = "var/geminabox-data"
 run Geminabox
